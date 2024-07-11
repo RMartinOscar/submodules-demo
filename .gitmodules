@@ -1,0 +1,3 @@
+[submodule "database/Seeders/eggs"]
+	path = database/Seeders/eggs
+	url = https://github.com/pelican-eggs/eggs.git
